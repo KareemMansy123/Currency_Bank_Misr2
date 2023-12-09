@@ -1,4 +1,4 @@
-package com.example.currency_bank_misr
+package com.example.currency_bank_misr.presintation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
